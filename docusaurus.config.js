@@ -75,7 +75,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'paperSidebar',
             position: 'left',
-            label: 'Paper',
+            label: 'Final Paper: Exploring Sexual Assault Using Open Data',
           },
         ],
       },

@@ -3,46 +3,10 @@ sidebar_position: 1
 slug: /
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 6 minutes**.
+Sexual violence in the United States is a critical issue that, unfortunately, remains prevalent in our society. This troubling phenomenon, which encompasses a range of non-consensual acts, profoundly impacts the lives of countless individuals, affecting their physical, emotional, and psychological well-being. Despite its severity, sexual violence often remains shrouded in silence and stigma, making it a challenging problem to address. 
 
-## Getting Started
+The availability of open data presents a unique opportunity to shed light on this hidden crisis. By utilizing data from various sources, we can gain a clearer understanding of the scope and nature of sexual violence in the US. This data not only serves as a powerful tool for awareness but also acts as a foundation for developing effective strategies to combat this issue. 
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+By engaging with this topic through the lens of open data, this project contributes to the broader conversation about sexual violence. It demonstrates how access to reliable data can empower individuals to participate more actively in civil society, fostering a more informed and engaged public. Furthermore, this research can be a stepping stone towards advancing the cause of justice, providing evidence-based recommendations that can guide future policy and research efforts to mitigate sexual violence and support its survivors. 
