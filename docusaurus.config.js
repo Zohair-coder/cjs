@@ -116,7 +116,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'GitHub Repo',
+                label: 'Source Code',
                 href: 'https://github.com/Zohair-coder/cjs',
               },
             ],
