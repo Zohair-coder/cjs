@@ -9,8 +9,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Crime and Justice Paper',
-  tagline: 'Paper submission for CJS 270 at Drexel University - by Zohair ul Hasan',
+  tagline: 'Paper submission for CJS 270 at Drexel University',
   favicon: 'img/cjs-logo.webp',
+
+  customFields: {
+    "author": "Zohair ul Hasan",
+  },
 
   // Set the production url of your site here
   url: 'https://cjs.zohair.dev',
@@ -40,19 +44,14 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
             // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: false,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
