@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'CJS 270',
-  tagline: 'Paper submission for CJS 270 at Drexel University',
+  title: 'Crime and Justice Paper',
+  tagline: 'Paper submission for CJS 270 at Drexel University - by Zohair ul Hasan',
   favicon: 'img/cjs-logo.webp',
 
   // Set the production url of your site here
@@ -102,10 +102,6 @@ const config = {
               {
                 label: 'Email',
                 href: 'mailto:zohair.ul.hasan@gmail.com',
-              },
-              {
-                label: 'Phone',
-                href: 'tel:+12153164989',
               },
               {
                 label: 'LinkedIn',
