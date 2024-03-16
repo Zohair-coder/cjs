@@ -122,7 +122,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} CJS 270 - Zohair ul Hasan`,
+        copyright: `Copyright © ${new Date().getFullYear()} Zohair ul Hasan`,
       },
       prism: {
         theme: prismThemes.github,
