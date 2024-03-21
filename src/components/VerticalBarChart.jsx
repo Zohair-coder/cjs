@@ -46,6 +46,17 @@ function VerticalBarChart({ data }) {
         .style("font-size", "15px") // Increased font size
         .style("font-weight", "bold");
 
+      // Add Y axis label
+      svg.append("text")
+        .attr("text-anchor", "end")
+        .attr("x", -height / 2 + 70)
+        .attr("y", -margin.left + 20) // Adjust this value to position your label correctly
+        .attr("transform", "rotate(-90)")
+        .text("Percentage of cases")
+        .style("font-size", "15px") // You can adjust the font size if needed
+        .style("font-weight", "bold")
+        .style("fill", "currentColor");
+
       // Bars
       svg.selectAll("mybar")
         .data(data)
