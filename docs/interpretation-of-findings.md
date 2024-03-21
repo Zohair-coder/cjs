@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Interpretation of the findings
+# Interpretation of the Findings
 
 The visualizations derived from the National Crime Victimization Survey (NCVS) and Rape, Abuse & Incest National Network (RAINN) data reveal stark insights into the landscape of sexual violence in the United States. These findings are interpreted to reflect on the broader societal implications and the systemic challenges faced in addressing and mitigating sexual violence.
 
