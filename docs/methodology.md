@@ -14,7 +14,7 @@ Firstly, a horizontal bar chart will be constructed using the NCVS data to compa
 
 To illustrate the age demographics of victims, a pie chart will be developed to display the percentage of minors among the victims of sexual violence, drawing on the NCVS data. The chart will segment the victim population into minors and adults, thereby emphasizing the vulnerability of younger individuals to sexual crimes. This will be based on the age information available in the NCVS data, highlighting the significance of the issue among youth.
 
-### Visualization of Assault Locations**
+### Visualization of Assault Locations
 
 The research will incorporate a pre-existing visualization from RAINN that details the breakdown of locations where sexual assaults occur. According to RAINN, 55% of sexual assaults happen at or near the victims' homes. This statistic will be illustrated through a detailed chart that RAINN has already developed. Including this in the report will contextualize the environments in which sexual violence is most likely to occur and underline the proximity of risk to victims' personal spaces.
 
