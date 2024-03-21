@@ -5,7 +5,7 @@ slug: /
 
 # Introduction
 
-Sexual violence in the United States is a critical issue that, unfortunately, remains prevalent in our society. This troubling phenomenon, which encompasses a range of non-consensual acts, profoundly impacts the lives of countless individuals, affecting their physical, emotional, and psychological well-being. Despite its severity, sexual violence often remains shrouded in silence and stigma, making it a challenging problem to address. 
+Sexual violence in the United States is a critical issue that, unfortunately, remains prevalent in our society (RAINN, n.d.). This troubling phenomenon, which encompasses a range of non-consensual acts, profoundly impacts the lives of countless individuals, affecting their physical, emotional, and psychological well-being. Despite its severity, sexual violence often remains shrouded in silence and stigma, making it a challenging problem to address. 
 
 The availability of open data presents a unique opportunity to shed light on this hidden crisis. By utilizing data from various sources, we can gain a clearer understanding of the scope and nature of sexual violence in the US. This data not only serves as a powerful tool for awareness but also acts as a foundation for developing effective strategies to combat this issue.
 
