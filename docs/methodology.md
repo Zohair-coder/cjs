@@ -16,7 +16,7 @@ To illustrate the age demographics of victims, a pie chart will be developed to 
 
 ### Visualization of Assault Locations
 
-The research will incorporate a pre-existing visualization from RAINN that details the breakdown of locations where sexual assaults occur. According to RAINN, 55% of sexual assaults happen at or near the victims' homes. This statistic will be illustrated through a detailed chart that RAINN has already developed. Including this in the report will contextualize the environments in which sexual violence is most likely to occur and underline the proximity of risk to victims' personal spaces.
+The research will incorporate a pre-existing visualization from RAINN that details the breakdown of locations where sexual assaults occur. Including this in the report will contextualize the environments in which sexual violence is most likely to occur and underline the proximity of risk to victims' personal spaces.
 
 ### Pie Chart of Perpetrator Relationship to Victim
 
