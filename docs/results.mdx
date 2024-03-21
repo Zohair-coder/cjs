@@ -5,8 +5,14 @@ sidebar_position: 5
 import HorizontalBarGraph from '../src/components/HorizontalBarGraph';
 import reportingData from '../src/data/reportingData.js';
 
+import DonutChart from '../src/components/DonutChart';
+import ageData from '../src/data/ageData.js';
+
 # Results
 
 ### Reporting Rates of Crimes to the Police (2022)
 
 <HorizontalBarGraph data={reportingData} />
+
+### Victim Age Demographics (2022)
+<DonutChart data={ageData} />
