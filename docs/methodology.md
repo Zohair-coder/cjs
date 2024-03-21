@@ -12,7 +12,7 @@ Firstly, a horizontal bar chart will be constructed using the NCVS data to compa
 
 ### Pie Chart of Victim Age Demographics
 
-To illustrate the age demographics of victims, a pie chart will be developed to display the percentage of minors among the victims of sexual violence, drawing on the NCVS data. The chart will segment the victim population into minors and adults, thereby emphasizing the vulnerability of younger individuals to sexual crimes. This will be based on the age information available in the NCVS data, highlighting the significance of the issue among youth.
+To illustrate the age demographics of victims, a pie chart will be developed to display the percentage of minors among the victims of sexual violence, drawing on the NCVS data. This will be based on the age information available in the NCVS data, highlighting the significance of the issue among youth.
 
 ### Visualization of Assault Locations
 
