@@ -6,7 +6,11 @@ sidebar_position: 8
 
 Anderson, L. (2019, September 15). Why are we so bad at prosecuting sexual assault? The Dallas Morning News. https://www.dallasnews.com/opinion/commentary/2019/09/15/why-are-we-so-bad-at-prosecuting-sexual-assault/.
 
+Bureau of Justice Statistics. (n.d.). Single year comparison by crime type. Retrieved from https://ncvs.bjs.ojp.gov/single-year-comparison/crimeType.
+
 Cybulska, B. (2007). Sexual assault: key issues. Journal of the Royal Society of Medicine, 100, 321 - 324. https://doi.org/10.1177/014107680710000713.
+
+Federal Bureau of Investigation. (2016). Table 18: Estimated number of arrests. Retrieved from https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/topic-pages/tables/table-18
 
 Mason, F., & Lodrick, Z. (2013). Psychological consequences of sexual assault.. Best practice & research. Clinical obstetrics & gynaecology, 27 1, 27-37 . https://doi.org/10.1016/j.bpobgyn.2012.08.015.
 
