@@ -11,7 +11,7 @@ function VerticalBarChart({ data }) {
 
       // Define dimensions
       const margin = { top: 30, right: 30, bottom: 100, left: 80 }; // Adjusted for larger labels
-      const width = 800 - margin.left - margin.right;
+      const width = 600 - margin.left - margin.right;
       const height = 500 - margin.top - margin.bottom;
 
       // Create SVG container
