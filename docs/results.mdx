@@ -8,6 +8,9 @@ import reportingData from '../src/data/reportingData.js';
 import DonutChart from '../src/components/DonutChart';
 import ageData from '../src/data/ageData.js';
 
+import VerticalBarChart from '../src/components/VerticalBarChart';
+import relationshipData from '../src/data/relationshipData.js';
+
 # Results
 
 ### Reporting Rates of Crimes to the Police (2022)
@@ -15,4 +18,13 @@ import ageData from '../src/data/ageData.js';
 <HorizontalBarGraph data={reportingData} />
 
 ### Victim Age Demographics (2022)
+
 <DonutChart data={ageData} />
+
+### Sexual Assault Locations
+
+![Sexual assault locations](/img/rainn-visualization.png)
+
+### Relationship Between Perpetrators and Victims of Sexual Violence
+
+<VerticalBarChart data={relationshipData} />
