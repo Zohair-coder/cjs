@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Methodology
 
 The analytical process will focus on creating visual representations of the data to elucidate the patterns and characteristics of sexual violence in the United States.
